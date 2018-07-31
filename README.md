@@ -15,3 +15,8 @@ Step 2) Create a Branch. (branch = feature)
 Step 3) Make and commit changes
 -On GitHub, saved changes are called commits. 
 -Each commit has an associated commit message, which is a description explaining why a particular change was made.
+
+Step 4) Open a Pull Request
+-When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch.
+
+Step 5) Merge your Pull Request
