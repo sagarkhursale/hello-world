@@ -1,2 +1,2 @@
 # hello-world
-first guthub project.
+My first github project. yep
