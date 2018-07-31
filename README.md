@@ -15,4 +15,3 @@ Step 2) Create a Branch. (branch = feature)
 Step 3) Make and commit changes
 -On GitHub, saved changes are called commits. 
 -Each commit has an associated commit message, which is a description explaining why a particular change was made.
-
